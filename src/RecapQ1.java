@@ -4,7 +4,7 @@ public class RecapQ1 {
       Scanner scan= new Scanner(System.in);
       System.out.println("Enter Mark: ");
       int mark=scan.nextInt();
-
+    //dsfsfsdfdsf
       if(mark>0 && mark<100){
           System.out.println("Valid mark");
           if(mark>=75 && mark<=100){
